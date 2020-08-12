@@ -43,6 +43,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "test:ci": "CI=true yarn test",
+    "postversion": "git push && git push --tags",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
