@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Container, Typography } from "@material-ui/core";
-import ButtonAppBar from "./components/ButtonAppBar";
+import ButtonAppBar from "./layout/ButtonAppBar";
 
 function App() {
   return (
