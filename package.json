@@ -1,7 +1,28 @@
 {
-  "name": "react-starter-ts",
+  "name": "@tst-labs/cra-template-react-starter-ts",
   "version": "0.1.0",
-  "private": true,
+  "author": {
+    "name": "Victor Dolirio - TST/CDS",
+    "email": "victor.barbosa@tst.jus.br",
+    "url": "https://github.com/victordfb"
+  },
+  "repository": {
+    "url": "https://github.com/tst-labs/react-starter-ts"
+  },
+  "description": "A simple React with Typescript starter project bootstrapped with CRA",
+  "main": "template.json",
+  "keywords": [
+    "react",
+    "typescript",
+    "create-react-app",
+    "template",
+    "prettier",
+    "tst"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ],
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
