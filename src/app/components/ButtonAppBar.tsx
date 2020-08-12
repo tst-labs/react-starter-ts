@@ -14,7 +14,6 @@ const useStyles = makeStyles((theme) => ({
 
 function ButtonAppBar() {
   const classes = useStyles();
-
   return (
     <AppBar style={{position: 'unset'}}>
       <Toolbar>
